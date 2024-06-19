@@ -1,0 +1,23 @@
+{
+  "name": "solana-watcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.93.0",
+    "bitcoinjs-lib": "^6.1.6",
+    "bs58": "^5.0.0",
+    "bs58check": "^3.0.1",
+    "elliptic": "^6.5.5",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "npm": "^10.8.1",
+    "wif": "^4.0.0"
+  }
+}
